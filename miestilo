@@ -1,1 +1,54 @@
+/*CSS de Blog
+Kevin E. Maldonado Aguilar
+30/1/2017*/
+/*****************
+    Mi pagina
+******************/
+header
+        {
+    text-align: center;
+    background-image: url(images/bgimage.jpg);
+    background-repeat: no-repeat;   
+    background-size: cover;
+        }
 
+body
+        {
+        text-align: center;
+        color:darkorchid;
+        font-family: monospace;
+        }
+
+ul li
+        {
+        list-style: none; 
+        }
+
+h1  
+        {
+        font-size: 70px;
+        color:ghostwhite;
+        font-family: serif;
+        }
+ul
+        {
+        background-color:darkorchid;
+        padding:15px;
+        }
+a
+        {
+        text-decoration: none;
+        color:ghostwhite;
+        }
+
+img
+        {
+        margin: 40px 0px 0px 40px;
+        border: 7px solid;
+        border-radius: 120px;
+        }
+
+footer
+        {
+        align-content: center
+        }
